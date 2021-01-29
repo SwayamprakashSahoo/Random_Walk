@@ -144,3 +144,32 @@ double random(int N)
 	return Rrms;
 }
 
+
+
+/******************************************OUTPUT**************************************************
+Problem involving random walk:For 250 steps:
+
+ The radial distance is 15.605367
+ The rms value of distance is 17.999737
+ The net displacement is 193.956846
+For 300 steps:
+
+ The radial distance is 16.426245
+ The rms value of distance is 18.690602
+ The net displacement is 214.617440
+For 350 steps:
+
+ The radial distance is 17.501523
+ The rms value of distance is 20.038213
+ The net displacement is 245.562135
+For 400 steps:
+
+ The radial distance is 18.692326
+ The rms value of distance is 20.940675
+ The net displacement is 373.356805
+For 450 steps:
+
+ The radial distance is 19.878432
+ The rms value of distance is 22.500163
+ The net displacement is 321.014508
+*************************************************************************************************/
